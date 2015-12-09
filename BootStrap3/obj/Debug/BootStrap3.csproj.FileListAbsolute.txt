@@ -1,0 +1,6 @@
+P:\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.dll.config
+P:\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.dll
+P:\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.pdb
+P:\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.csprojResolveAssemblyReference.cache
+P:\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.dll
+P:\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.pdb
