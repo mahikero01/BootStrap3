@@ -4,3 +4,9 @@ P:\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.pdb
 P:\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.csprojResolveAssemblyReference.cache
 P:\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.dll
 P:\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.pdb
+C:\Users\Mahikero01\Documents\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.dll.config
+C:\Users\Mahikero01\Documents\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.dll
+C:\Users\Mahikero01\Documents\SandBox\BootStrap3\BootStrap3\bin\BootStrap3.pdb
+C:\Users\Mahikero01\Documents\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.csprojResolveAssemblyReference.cache
+C:\Users\Mahikero01\Documents\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.dll
+C:\Users\Mahikero01\Documents\SandBox\BootStrap3\BootStrap3\obj\Debug\BootStrap3.pdb
