@@ -64,6 +64,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="images\Thumbs.db" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -77,6 +78,26 @@
     <Content Include="css\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="images\carousel-exoticanimals.jpg" />
+    <Content Include="images\carousel-fish.jpg" />
+    <Content Include="images\carousel-lifestyle.jpg" />
+    <Content Include="images\carousel-mission.jpg" />
+    <Content Include="images\carousel-stateoftheart.jpg" />
+    <Content Include="images\carousel-vaccinations.jpg" />
+    <Content Include="images\doctor-chase.jpg" />
+    <Content Include="images\doctor-sanders.jpg" />
+    <Content Include="images\doctor-winthrop.jpg" />
+    <Content Include="images\icon-exoticpets.svg" />
+    <Content Include="images\icon-grooming.svg" />
+    <Content Include="images\icon-health.svg" />
+    <Content Include="images\icon-nutrition.svg" />
+    <Content Include="images\icon-pestcontrol.svg" />
+    <Content Include="images\icon-vaccinations.svg" />
+    <Content Include="images\testimonial-janeh.jpg" />
+    <Content Include="images\testimonial-johnb.jpg" />
+    <Content Include="images\testimonial-lorraines.jpg" />
+    <Content Include="images\testimonial-mcphersons.jpg" />
+    <Content Include="images\wisdompetlogo.svg" />
     <Content Include="index.html" />
     <Content Include="js\bootstrap.js" />
     <Content Include="js\bootstrap.min.js" />
