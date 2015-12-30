@@ -45,6 +45,12 @@ header .navbar-default .navbar-nav .active a {
   text-shadow: none;
 }
 
+header .navbar-default .navbar-nav .active a:hover {
+  color: #E15D5F;
+  background: transparent;
+  text-shadow: none;
+}
+
 
 footer .navbar-default {
     background: transparent;
